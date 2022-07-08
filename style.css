@@ -1,0 +1,22 @@
+body{
+    cursor: url(//cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.1.6/images/mouse.cur),auto;
+    background-color: rgba(10, 10, 10, 0.02);
+}
+#footer{
+    background-color: transparent;
+}
+#footer-wrap{
+    color: black;
+}
+#footer-wrap .framework-info a{
+    color:black;
+    font-size: 0;
+}
+
+#footer-wrap .framework-info span{
+    font-size: 0;
+}
+
+#footer-wrap .copyright{
+    font-size: 18px;
+}
