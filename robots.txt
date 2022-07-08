@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+​
+Sitemap: https://liuyyingbo.com/sitemap.xml
+Sitemap: https://liuyingbo.com/baidusitemap.xml
